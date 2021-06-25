@@ -1,0 +1,75 @@
+network_name,network,n_nodes,n_edges,gamma,average_k,type,can_linkpred,url
+social3,Social 3,32,80,3.46,5.0,social,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+karate,Karate club,34,78,2.16,4.588,social,1,http://www-personal.umich.edu/~mejn/netdata/
+protein2,Protein 2,53,123,10.5,4.642,biological,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+dolphins,Dolphins,62,159,7.71,5.129,social,1,http://www-personal.umich.edu/~mejn/netdata/
+social1,Social 1,67,142,8.56,4.239,social,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+lesmis,Les Miserables,77,254,2.1,6.597,social,1,http://www-personal.umich.edu/~mejn/netdata/
+HumanBrainLayer2,"Human brain, layer 2",78,218,5.17,5.59,biological,1,https://drive.google.com/file/d/0B_LB9wOzngSba2JSWEFEMDBZalU/view?resourcekey=0-B77df0H29F-Lz7f690x2jg
+HumanBrainLayer1,"Human brain, layer 1",85,230,5.14,5.412,biological,1,https://drive.google.com/file/d/0B_LB9wOzngSba2JSWEFEMDBZalU/view?resourcekey=0-B77df0H29F-Lz7f690x2jg
+protein1,Protein 1,95,213,9.13,4.484,biological,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+EColi,"E. Coli, transcription",97,212,5.18,4.371,biological,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+polbooks,Political books,105,441,2.62,8.4,social,1,http://www-personal.umich.edu/~mejn/netdata/
+adjnoun,David Copperfield,112,425,3.62,7.589,word adjacency,1,http://www-personal.umich.edu/~mejn/netdata/
+football,College football,115,613,10.5,10.661,social,1,http://www-personal.umich.edu/~mejn/netdata/
+s208,S 208,122,189,4.16,3.098,electronic circuits,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+highschool2011,"High school, 2011",126,1709,2.1,27.127,social,1,http://www.sociopatterns.org/datasets/high-school-dynamic-contact-networks/
+baywet,Bay Wet,128,2075,2.1,32.422,biological,1,http://konect.cc/networks/foodweb-baywet/
+baydry,Bay Dry,128,2106,2.1,32.906,biological,1,http://konect.cc/networks/foodweb-baydry/
+radoslaw_email,Radoslaw Email,167,3250,2.1,38.922,social,1,http://konect.cc/networks/radoslaw_email/
+highschool2012,"High school, 2012",180,2220,5.82,24.667,social,1,http://www.sociopatterns.org/datasets/high-school-dynamic-contact-networks/
+foodweb,Little Rock Lake,183,2434,2.1,26.601,biological,1,http://konect.cc/networks/maayan-foodweb/
+jazz,Jazz,198,2742,3.07,27.697,social,1,https://deim.urv.cat/~alexandre.arenas/data/welcome.htm
+s420,S 420,252,399,4.03,3.167,electronic circuits,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+celegansneural,"C. Elegans, neural",297,2148,3.34,14.465,biological,1,http://www-personal.umich.edu/~mejn/netdata/
+netscience,Network Science,379,914,3.36,4.823,social,1,http://www-personal.umich.edu/~mejn/netdata/
+Dublin,Dublin,410,2765,6.42,13.488,social,1,http://konect.cc/networks/sociopatterns-infectious/
+USAirport,US Air Transportation,500,2980,2.1,11.92,transportation,1,https://sites.google.com/site/cxnets/usairtransportationnetwork
+s838,S 838,512,819,3.97,3.199,electronic circuits,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+yeastinter,"Yeast, transcription",662,1062,2.27,3.208,biological,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+EuroRoads,European Road,1039,1305,6.36,2.512,transportation,0,http://konect.cc/networks/subelj_euroroad/
+URVemail,URV email,1133,5451,4.89,9.622,social,1,https://deim.urv.cat/~alexandre.arenas/data/welcome.htm
+polblogs,Political blogs,1222,16714,2.38,27.355,social,1,http://www-personal.umich.edu/~mejn/netdata/
+AirTraffic,Air traffic,1226,2408,3.71,3.928,transportation,1,http://konect.cc/networks/maayan-faa/
+YeastProtein,"Yeast, protein",1458,1948,3.03,2.672,biological,0,-
+hamster,"Petster, hamster",1788,12476,2.46,13.955,social,1,http://konect.cc/networks/petster-friendships-hamster/
+ucsocial,UC Irvine,1893,13835,2.8,14.617,social,1,http://konect.cc/networks/opsahl-ucsocial/
+YeastS,"Yeast, protein",2224,6609,3.26,5.943,biological,1,http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm
+japanesebookinter,Japanese ,2698,7995,2.11,5.927,word adjacency,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+openflights,Open flights,2905,15645,2.1,10.771,transportation,1,http://konect.cc/networks/opsahl-openflights/
+AirTransportation,Air Transportation,3618,14142,2.1,7.818,transportation,1,http://seeslab.info/downloads/air-transportation-networks/
+ca_GrQc,"GR-QC, 1993-2003",4158,13422,2.1,6.456,social,1,http://snap.stanford.edu/data/ca-GrQc.html
+power,US Power grid,4941,6594,7.63,2.669,power grid,0,http://www-personal.umich.edu/~mejn/netdata/
+IPv6Internet,IPv6 Internet,5143,13446,2.3,5.229,Internet,1,https://drive.google.com/file/d/0B_LB9wOzngSba2JSWEFEMDBZalU/view?resourcekey=0-B77df0H29F-Lz7f690x2jg
+ht09,HT09,5352,18481,2.22,6.906,social,1,http://www.sociopatterns.org/datasets/hypertext-2009-dynamic-contact-network/
+hep_th,"Hep-Th, 1995-1999",5835,13815,5.26,4.735,social,1,http://www-personal.umich.edu/~mejn/netdata/
+jung,Jung,6120,50290,2.34,16.435,technological,1,http://konect.cc/networks/subelj_jung-j/
+P2P,"Gnutella, Aug. 8, 2002",6299,20776,4.74,6.597,p2p,1,http://snap.stanford.edu/data/p2p-Gnutella08.html
+jdk,JDK,6434,53658,2.36,16.68,technological,1,http://konect.cc/networks/subelj_jdk/
+ASOregonInternet,AS Oregon Internet,6474,12572,2.1,3.884,Internet,1,http://snap.stanford.edu/data/as.html
+englishbookinter,English,7377,44205,2.19,11.985,word adjacency,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+p2p09,"Gnutella, Aug. 9, 2002",8104,26008,4.73,6.419,p2p,1,http://snap.stanford.edu/data/p2p-Gnutella09.html
+frenchbookinter,French ,8308,23832,2.29,5.737,word adjacency,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+ca_HepTh,"Hep-Th, 1993-2003",8638,24806,2.75,5.743,social,1,http://snap.stanford.edu/data/ca-HepTh.html
+p2p06,"Gnutella, Aug. 6, 2002",8717,31525,4.62,7.233,p2p,1,http://snap.stanford.edu/data/p2p-Gnutella06.html
+p2p05,"Gnutella, Aug. 5, 2002",8842,31837,4.65,7.201,p2p,1,http://snap.stanford.edu/data/p2p-Gnutella05.html
+PGP,PGP,10680,24316,2.24,4.554,social,1,https://deim.urv.cat/~alexandre.arenas/data/welcome.htm
+p2p04,"Gnutella, Aug. 4, 2002",10876,39994,4.58,7.355,p2p,1,http://snap.stanford.edu/data/p2p-Gnutella04.html
+spanishbookinter,Spanish,11558,43050,2.16,7.449,word adjacency,1,https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks
+dblp_cite,"DBLP, citations",12495,49563,3.36,7.933,social,1,http://konect.cc/networks/dblp-cite/
+spanishbook,Spanish,12643,55019,2.17,8.703,social,1,-
+cond_mat1999,"Cond-Mat, 1995-1999",13861,44619,3.58,6.438,social,1,http://www-personal.umich.edu/~mejn/netdata/
+ca_CondMat,"Cond-Mat, 1993-2003",21363,91286,3.35,8.546,social,1,http://snap.stanford.edu/data/ca-CondMat.html
+p2p25,"Gnutella, Aug. 25, 2002",22663,54693,7.12,4.827,p2p,1,http://snap.stanford.edu/data/p2p-Gnutella25.html
+AS22july06,Internet,22963,48436,2.1,4.219,Internet,1,http://www-personal.umich.edu/~mejn/netdata/
+cora,Cora ,23166,89157,3.3,7.697,social,1,http://konect.cc/networks/subelj_cora/
+ASInternet,AS Internet,23748,58414,2.27,4.919,Internet,1,https://www.nature.com/articles/ncomms1063#MOESM409
+AScaida,AS Caida,26475,53381,2.1,4.033,Internet,1,http://snap.stanford.edu/data/as-caida.html
+p2p24,"Gnutella, Aug. 24, 2002",26498,65359,6.27,4.933,p2p,1,http://snap.stanford.edu/data/p2p-Gnutella24.html
+cond_mat2003,"Cond-Mat, 1995-2003",27519,116181,3.62,8.444,social,1,http://www-personal.umich.edu/~mejn/netdata/
+digg,Digg,29652,84781,2.79,5.718,social,1,http://konect.cc/networks/munmun_digg_reply/
+cond_mat2005,"Cond-Mat, 1995-2005",36458,171735,2.91,9.421,social,1,http://www-personal.umich.edu/~mejn/netdata/
+p2p30,"Gnutella, Aug. 30, 2002",36646,88303,4.9,4.819,p2p,1,http://snap.stanford.edu/data/p2p-Gnutella30.html
+IPv4Internet,IPv4 Internet,37542,95019,2.1,5.062,Internet,1,https://drive.google.com/file/d/0B_LB9wOzngSba2JSWEFEMDBZalU/view?resourcekey=0-B77df0H29F-Lz7f690x2jg
+youtube,YouTube friend. net.,1134890,2987624,2.14,5.265,social,1,http://konect.cc/networks/com-youtube/
+ASskitter,AS Skitter,1694616,11094209,2.25,13.093,Internet,1,http://snap.stanford.edu/data/as-skitter.html
