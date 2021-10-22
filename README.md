@@ -1,6 +1,6 @@
 # Introduction
 
-This repository hosts the code for paper "Systematic comparison of graph embedding methods in practical tasks. Yi-Jiao Zhang, Kai-Cheng Yang, Filippo Radicchi".
+This repository hosts the code for paper "Systematic comparison of graph embedding methods in practical tasks. Yi-Jiao Zhang, Kai-Cheng Yang, Filippo Radicchi". [[DOI]](https://doi.org/10.1103/PhysRevE.104.044315) [[arXiv]](https://arxiv.org/abs/2106.10198).
 We provide a general framework to compare the performance of different network embedding methods on downstream tasks.
 
 The network embedding methods considered in our paper include Node2vec, HOPE, Laplacian Eigenmap, Isomap, HyperMap, HyperLink, Mercator, Poincaré maps, Hydra and community embedding.
@@ -246,4 +246,24 @@ To use community embedding on downstream tasks, go to the folder `code/workflow/
 ```bash
 snakemake -s demo_snakefile.smk run_community_corr_routing_all -j1
 snakemake -s demo_snakefile.smk run_community_link_prediction_all -j1
+```
+
+# Citation
+
+```bib
+@article{PhysRevE.104.044315,
+  title = {Systematic comparison of graph embedding methods in practical tasks},
+  author = {Zhang, Yi-Jiao and Yang, Kai-Cheng and Radicchi, Filippo},
+  journal = {Phys. Rev. E},
+  volume = {104},
+  issue = {4},
+  pages = {044315},
+  numpages = {13},
+  year = {2021},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.104.044315},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.104.044315}
+}
+
 ```
