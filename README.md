@@ -1,6 +1,6 @@
 # Introduction
 
-This repository hosts the code for paper "Systematic comparison of graph embedding methods in practical tasks. Yi-Jiao Zhang, Kai-Cheng Yang, Filippo Radicchi". [[DOI]](https://doi.org/10.1103/PhysRevE.104.044315) [[arXiv]](https://arxiv.org/abs/2106.10198).
+This repository hosts the code for paper "Systematic comparison of graph embedding methods in practical tasks. (2021). *Physical Review E, 104(4), 044315.* Yi-Jiao Zhang, Kai-Cheng Yang, Filippo Radicchi". [[DOI]](https://doi.org/10.1103/PhysRevE.104.044315) [[arXiv]](https://arxiv.org/abs/2106.10198).
 We provide a general framework to compare the performance of different network embedding methods on downstream tasks.
 
 The network embedding methods considered in our paper include Node2vec, HOPE, Laplacian Eigenmap, Isomap, HyperMap, HyperLink, Mercator, Poincaré maps, Hydra and community embedding.
